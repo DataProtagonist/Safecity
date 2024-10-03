@@ -8,10 +8,6 @@ This repository contains an in-depth analysis of crime data in the city of Worce
 
 The primary goal of this project is to identify crime patterns and trends through the analysis of police incident data in Worcester. Using Tableau's data visualization capabilities, we examine crime trends over time, analyze geographical crime hotspots, and break down incidents by time of day and type of crime.
 
-This project was conducted in collaboration with:
-- **Pranay Datta Kavukuntla**
-- **Lokesh Vangula**
-
 ## 🚀 Project Goals
 
 - **Identify crime trends**: Analyze how crime incidents vary by time of day, week, and year.
