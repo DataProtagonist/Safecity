@@ -78,7 +78,7 @@ crime-data-analysis-worcester/ │ ├── data/ # Folder for datasets and pro
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/crime-data-analysis-worcester.git
+   git clone https://github.com/DataProtagonist/crime-data-analysis-worcester.git
    ```
 2. Open the Tableau Workbook: Use Tableau Desktop to open Crime data Analysis.twb and explore the interactive dashboards.
 
